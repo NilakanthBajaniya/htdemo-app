@@ -1,8 +1,8 @@
 [{
-			"relation": ["delegate_permission/common.handle_all_urls"],
-			"target" : { 
-				"namespace": "android_app", 
-				"package_name": "com.hockeytech.hockeytechdemo",
-				"sha256_cert_fingerprints": ["0F:AA:A1:7F:37:D7:3A:F7:C0:0F:B3:2B:49:1D:DC:38:A9:1F:91:3C:66:27:7B:20:17:E4:E2:96:C8:3E:F5:DC"] 
-			}
-		}]
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target" : { 
+		"namespace": "android_app", 
+		"package_name": "com.hockeytech.hockeytechdemo",
+		"sha256_cert_fingerprints": ["0F:AA:A1:7F:37:D7:3A:F7:C0:0F:B3:2B:49:1D:DC:38:A9:1F:91:3C:66:27:7B:20:17:E4:E2:96:C8:3E:F5:DC"] 
+	}
+}]
