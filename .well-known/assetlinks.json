@@ -1,6 +1,6 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.hockeytech.hockeytechdemo",
-               "sha256_cert_fingerprints": ["C9:A3:DF:80:93:99:7C:E7:05:C5:F7:40:27:CE:0F:34:E8:D4:6D:79:74:0C:6C:3A:D0:C5:35:E1:CF:8F:2E:96"] }
+               "sha256_cert_fingerprints": ["7B:EB:D4:81:15:E3:EA:2B:EF:92:7D:0E:B7:0E:26:D1:75:42:1C:14:69:E4:55:7E:71:A2:CB:40:9F:FB:5C:37"] }
 }]
 
